@@ -34,6 +34,7 @@ target/
 
 # IntelliJ Generated
 .idea
+*.iml
 
 # Front End Dependency Generated
 frontend/.sass-cache/
